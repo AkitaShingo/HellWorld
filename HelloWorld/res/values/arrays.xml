@@ -1,0 +1,8 @@
+
+    <resources>
+        <string-array name="first_dream">
+            <item>fuji</item>
+            <item>taka</item>
+            <item>nasubi</item>
+        </string-array>
+    </resources>
